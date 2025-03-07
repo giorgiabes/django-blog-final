@@ -10,7 +10,7 @@ Follow these steps to set up and run the project on Ubuntu:
 
 ```
 # Clone the repository
-git clone https://github.com/giorgiabes/django-blog.git
+git clone https://github.com/giorgiabes/django-blog-final.git
 
 # Navigate into the project directory
 cd django-blog
@@ -32,7 +32,7 @@ python manage.py createsuperuser
 If you're using Windows, follow these steps:
 ```
 # Clone the repository
-git clone https://github.com/giorgiabes/django-blog.git
+git clone https://github.com/giorgiabes/django-blog-final.git
 
 # Navigate into the project directory
 cd django-blog
