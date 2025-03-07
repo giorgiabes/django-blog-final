@@ -13,7 +13,7 @@ Follow these steps to set up and run the project on Ubuntu:
 git clone https://github.com/giorgiabes/django-blog-final.git
 
 # Navigate into the project directory
-cd django-blog
+cd django-blog-final
 
 # Create and activate a virtual environment
 python3 -m venv venv
@@ -35,7 +35,7 @@ If you're using Windows, follow these steps:
 git clone https://github.com/giorgiabes/django-blog-final.git
 
 # Navigate into the project directory
-cd django-blog
+cd django-blog-final
 
 # Create and activate a virtual environment
 python -m venv venv
